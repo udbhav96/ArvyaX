@@ -1,5 +1,5 @@
 # ArvyaX Emotion Intelligence System
-### ML Internship Assignment — RevoltronX × ArvyaX
+
 > *"AI should not just understand humans. It should help them move toward a better state."*
 
 ---
