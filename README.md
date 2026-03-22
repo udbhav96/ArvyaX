@@ -3,6 +3,9 @@
 > *"AI should not just understand humans. It should help them move toward a better state."*
 
 ---
+## View Notebook
+GitHub sometimes fails to render notebooks.
+👉 [Click here to view on nbviewer](https://nbviewer.org/github/udbhav96/ArvyaX/blob/main/notebook/main.ipynb)
 
 ## What This System Does
 
