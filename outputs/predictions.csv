@@ -1,0 +1,121 @@
+id,predicted_state,predicted_intensity,confidence,uncertain_flag,what_to_do,when_to_do,message
+10001,focused,2,0.8012,0,deep_work,tomorrow_morning,Focus mode activated. Best time for deep_work is tomorrow_morning — don't waste it.
+10002,restless,2,0.3279,1,journaling,within_15_min,Your mind seems restless right now. A quick journaling within_15_min can help settle the noise.
+10003,focused,4,0.3383,1,deep_work,tomorrow_morning,You're sharp and ready. Lock in with deep_work tomorrow_morning — this is your window.
+10004,calm,2,0.3808,1,light_planning,later_today,Feeling calm is a gift — use it well. Light Planning later_today sounds like a great move.
+10005,neutral,3,0.4225,1,rest,now,Things feel quiet right now. Use this window for rest now before the day picks up.
+10006,mixed,3,0.3106,1,journaling,within_15_min,"When things feel conflicted, small steps help. Try journaling within_15_min to ground yourself."
+10007,restless,3,0.779,0,journaling,within_15_min,Can't seem to slow down? Try journaling within_15_min — it'll help you reset.
+10008,overwhelmed,4,0.3663,1,box_breathing,now,Feeling overwhelmed is valid. Let's slow things down with box_breathing now. You don't have to solve everything today.
+10009,restless,4,0.7684,0,journaling,now,Can't seem to slow down? Try journaling now — it'll help you reset.
+10010,overwhelmed,3,0.6746,0,grounding,within_15_min,You're carrying a lot right now — that's okay. Take a breath and try grounding within_15_min. One step at a time.
+10011,overwhelmed,3,0.4826,0,grounding,within_15_min,You're carrying a lot right now — that's okay. Take a breath and try grounding within_15_min. One step at a time.
+10012,restless,3,0.6589,0,journaling,within_15_min,Your mind seems restless right now. A quick journaling within_15_min can help settle the noise.
+10013,mixed,3,0.8071,0,journaling,within_15_min,Feeling mixed is normal — you're human. Start with journaling within_15_min to find some clarity.
+10014,focused,3,0.5886,0,deep_work,now,You're sharp and ready. Lock in with deep_work now — this is your window.
+10015,mixed,2,0.591,0,journaling,within_15_min,Feeling mixed is normal — you're human. Start with journaling within_15_min to find some clarity.
+10016,neutral,3,0.7318,0,light_planning,later_today,Neutral is a good place to plan from. Light Planning later_today is a solid next step.
+10017,mixed,2,0.7857,0,journaling,within_15_min,"When things feel conflicted, small steps help. Try journaling within_15_min to ground yourself."
+10018,mixed,4,0.7698,0,journaling,within_15_min,Feeling mixed is normal — you're human. Start with journaling within_15_min to find some clarity.
+10019,calm,2,0.2497,1,light_planning,later_today,You're in a good headspace. Great time to channel that into light_planning later_today.
+10020,mixed,2,0.7913,0,journaling,within_15_min,Feeling mixed is normal — you're human. Start with journaling within_15_min to find some clarity.
+10021,overwhelmed,4,0.7973,0,box_breathing,now,Feeling overwhelmed is valid. Let's slow things down with box_breathing now. You don't have to solve everything today.
+10022,calm,2,0.7021,0,light_planning,later_today,Feeling calm is a gift — use it well. Light Planning later_today sounds like a great move.
+10023,neutral,3,0.6625,0,rest,tonight,Things feel quiet right now. Use this window for rest tonight before the day picks up.
+10024,mixed,3,0.5215,0,journaling,within_15_min,"When things feel conflicted, small steps help. Try journaling within_15_min to ground yourself."
+10025,restless,3,0.3568,1,journaling,within_15_min,Can't seem to slow down? Try journaling within_15_min — it'll help you reset.
+10026,overwhelmed,3,0.3949,1,grounding,within_15_min,You're carrying a lot right now — that's okay. Take a breath and try grounding within_15_min. One step at a time.
+10027,mixed,2,0.2989,1,journaling,within_15_min,Feeling mixed is normal — you're human. Start with journaling within_15_min to find some clarity.
+10028,neutral,2,0.239,1,rest,now,Things feel quiet right now. Use this window for rest now before the day picks up.
+10029,overwhelmed,5,0.7799,0,box_breathing,now,Feeling overwhelmed is valid. Let's slow things down with box_breathing now. You don't have to solve everything today.
+10030,mixed,2,0.7243,0,journaling,within_15_min,"When things feel conflicted, small steps help. Try journaling within_15_min to ground yourself."
+10031,focused,2,0.6251,0,deep_work,now,You're sharp and ready. Lock in with deep_work now — this is your window.
+10032,restless,4,0.4471,0,journaling,now,Your mind seems restless right now. A quick journaling now can help settle the noise.
+10033,overwhelmed,4,0.896,0,box_breathing,now,You're carrying a lot right now — that's okay. Take a breath and try box_breathing now. One step at a time.
+10034,neutral,3,0.4592,0,rest,tonight,Things feel quiet right now. Use this window for rest tonight before the day picks up.
+10035,focused,2,0.6615,0,deep_work,now,You're sharp and ready. Lock in with deep_work now — this is your window.
+10036,neutral,4,0.4158,0,rest,now,Neutral is a good place to plan from. Rest now is a solid next step.
+10037,focused,4,0.3973,1,deep_work,now,Focus mode activated. Best time for deep_work is now — don't waste it.
+10038,focused,3,0.277,1,deep_work,tomorrow_morning,Focus mode activated. Best time for deep_work is tomorrow_morning — don't waste it.
+10039,focused,3,0.4007,1,deep_work,tomorrow_morning,You're sharp and ready. Lock in with deep_work tomorrow_morning — this is your window.
+10040,mixed,2,0.7523,0,journaling,within_15_min,"When things feel conflicted, small steps help. Try journaling within_15_min to ground yourself."
+10041,overwhelmed,3,0.8549,0,grounding,within_15_min,You're carrying a lot right now — that's okay. Take a breath and try grounding within_15_min. One step at a time.
+10042,mixed,2,0.287,1,journaling,within_15_min,"When things feel conflicted, small steps help. Try journaling within_15_min to ground yourself."
+10043,calm,2,0.922,0,light_planning,tonight,You're in a good headspace. Great time to channel that into light_planning tonight.
+10044,calm,2,0.7945,0,light_planning,later_today,Feeling calm is a gift — use it well. Light Planning later_today sounds like a great move.
+10045,restless,2,0.8506,0,journaling,within_15_min,Your mind seems restless right now. A quick journaling within_15_min can help settle the noise.
+10046,neutral,2,0.4755,0,light_planning,tonight,Things feel quiet right now. Use this window for light_planning tonight before the day picks up.
+10047,focused,3,0.8188,0,deep_work,now,Focus mode activated. Best time for deep_work is now — don't waste it.
+10048,mixed,3,0.4843,0,journaling,within_15_min,"When things feel conflicted, small steps help. Try journaling within_15_min to ground yourself."
+10049,restless,3,0.4615,0,journaling,within_15_min,Can't seem to slow down? Try journaling within_15_min — it'll help you reset.
+10050,restless,5,0.654,0,journaling,now,Your mind seems restless right now. A quick journaling now can help settle the noise.
+10051,calm,2,0.5223,0,light_planning,later_today,Feeling calm is a gift — use it well. Light Planning later_today sounds like a great move.
+10052,calm,2,0.4214,0,light_planning,later_today,You're in a good headspace. Great time to channel that into light_planning later_today.
+10053,calm,1,0.398,1,light_planning,later_today,You're in a good headspace. Great time to channel that into light_planning later_today.
+10054,overwhelmed,3,0.7572,0,grounding,within_15_min,You're carrying a lot right now — that's okay. Take a breath and try grounding within_15_min. One step at a time.
+10055,mixed,3,0.9442,0,journaling,within_15_min,"When things feel conflicted, small steps help. Try journaling within_15_min to ground yourself."
+10056,focused,3,0.6519,0,deep_work,tomorrow_morning,You're sharp and ready. Lock in with deep_work tomorrow_morning — this is your window.
+10057,overwhelmed,3,0.9165,1,grounding,within_15_min,You're carrying a lot right now — that's okay. Take a breath and try grounding within_15_min. One step at a time.
+10058,neutral,2,0.2816,1,light_planning,later_today,Things feel quiet right now. Use this window for light_planning later_today before the day picks up.
+10059,mixed,4,0.6816,0,journaling,within_15_min,Feeling mixed is normal — you're human. Start with journaling within_15_min to find some clarity.
+10060,neutral,2,0.4955,0,rest,tonight,Neutral is a good place to plan from. Rest tonight is a solid next step.
+10061,neutral,3,0.37,1,light_planning,tonight,Things feel quiet right now. Use this window for light_planning tonight before the day picks up.
+10062,restless,4,0.5954,0,journaling,now,Can't seem to slow down? Try journaling now — it'll help you reset.
+10063,restless,2,0.6898,0,journaling,within_15_min,Can't seem to slow down? Try journaling within_15_min — it'll help you reset.
+10064,neutral,2,0.441,0,rest,now,Things feel quiet right now. Use this window for rest now before the day picks up.
+10065,neutral,3,0.7086,0,light_planning,later_today,Neutral is a good place to plan from. Light Planning later_today is a solid next step.
+10066,calm,1,0.209,1,light_planning,later_today,You're in a good headspace. Great time to channel that into light_planning later_today.
+10067,restless,2,0.3106,1,journaling,within_15_min,Your mind seems restless right now. A quick journaling within_15_min can help settle the noise.
+10068,overwhelmed,5,0.6806,0,box_breathing,now,You're carrying a lot right now — that's okay. Take a breath and try box_breathing now. One step at a time.
+10069,neutral,3,0.7402,0,light_planning,later_today,Things feel quiet right now. Use this window for light_planning later_today before the day picks up.
+10070,neutral,3,0.4043,0,rest,now,Things feel quiet right now. Use this window for rest now before the day picks up.
+10071,mixed,3,0.2794,1,journaling,within_15_min,"When things feel conflicted, small steps help. Try journaling within_15_min to ground yourself."
+10072,calm,3,0.3725,1,light_planning,later_today,You're in a good headspace. Great time to channel that into light_planning later_today.
+10073,focused,3,0.3224,1,deep_work,tomorrow_morning,Focus mode activated. Best time for deep_work is tomorrow_morning — don't waste it.
+10074,mixed,4,0.5069,0,journaling,within_15_min,"When things feel conflicted, small steps help. Try journaling within_15_min to ground yourself."
+10075,restless,4,0.5855,0,journaling,now,Your mind seems restless right now. A quick journaling now can help settle the noise.
+10076,mixed,3,0.5048,1,journaling,within_15_min,Feeling mixed is normal — you're human. Start with journaling within_15_min to find some clarity.
+10077,neutral,2,0.4897,0,rest,now,Things feel quiet right now. Use this window for rest now before the day picks up.
+10078,restless,2,0.8454,0,journaling,within_15_min,Can't seem to slow down? Try journaling within_15_min — it'll help you reset.
+10079,restless,2,0.7535,0,journaling,within_15_min,Can't seem to slow down? Try journaling within_15_min — it'll help you reset.
+10080,focused,3,0.3902,1,deep_work,tomorrow_morning,You're sharp and ready. Lock in with deep_work tomorrow_morning — this is your window.
+10081,restless,4,0.4073,1,journaling,now,Can't seem to slow down? Try journaling now — it'll help you reset.
+10082,mixed,3,0.3309,1,journaling,within_15_min,"When things feel conflicted, small steps help. Try journaling within_15_min to ground yourself."
+10083,restless,3,0.4235,0,journaling,within_15_min,Your mind seems restless right now. A quick journaling within_15_min can help settle the noise.
+10084,overwhelmed,4,0.5025,0,box_breathing,now,Feeling overwhelmed is valid. Let's slow things down with box_breathing now. You don't have to solve everything today.
+10085,calm,2,0.6999,0,light_planning,later_today,You're in a good headspace. Great time to channel that into light_planning later_today.
+10086,neutral,3,0.8503,0,rest,now,Things feel quiet right now. Use this window for rest now before the day picks up.
+10087,mixed,3,0.7557,0,journaling,within_15_min,Feeling mixed is normal — you're human. Start with journaling within_15_min to find some clarity.
+10088,mixed,3,0.3382,1,journaling,within_15_min,Feeling mixed is normal — you're human. Start with journaling within_15_min to find some clarity.
+10089,calm,2,0.5087,0,light_planning,later_today,You're in a good headspace. Great time to channel that into light_planning later_today.
+10090,neutral,2,0.5778,0,light_planning,later_today,Neutral is a good place to plan from. Light Planning later_today is a solid next step.
+10091,neutral,4,0.6312,1,light_planning,tonight,Neutral is a good place to plan from. Light Planning tonight is a solid next step.
+10092,overwhelmed,2,0.6423,1,grounding,within_15_min,You're carrying a lot right now — that's okay. Take a breath and try grounding within_15_min. One step at a time.
+10093,mixed,2,0.6674,0,journaling,within_15_min,Feeling mixed is normal — you're human. Start with journaling within_15_min to find some clarity.
+10094,focused,4,0.932,0,deep_work,now,Focus mode activated. Best time for deep_work is now — don't waste it.
+10095,mixed,3,0.5776,0,journaling,within_15_min,Feeling mixed is normal — you're human. Start with journaling within_15_min to find some clarity.
+10096,calm,2,0.4838,1,light_planning,later_today,You're in a good headspace. Great time to channel that into light_planning later_today.
+10097,neutral,3,0.3131,1,light_planning,later_today,Things feel quiet right now. Use this window for light_planning later_today before the day picks up.
+10098,overwhelmed,4,0.8971,0,box_breathing,now,You're carrying a lot right now — that's okay. Take a breath and try box_breathing now. One step at a time.
+10099,restless,4,0.4183,1,journaling,now,Can't seem to slow down? Try journaling now — it'll help you reset.
+10100,mixed,4,0.4486,0,journaling,within_15_min,Feeling mixed is normal — you're human. Start with journaling within_15_min to find some clarity.
+10101,neutral,2,0.3054,1,rest,now,Neutral is a good place to plan from. Rest now is a solid next step.
+10102,neutral,3,0.3254,1,rest,now,Neutral is a good place to plan from. Rest now is a solid next step.
+10103,restless,4,0.2926,1,journaling,now,Can't seem to slow down? Try journaling now — it'll help you reset.
+10104,mixed,4,0.43,0,journaling,within_15_min,Feeling mixed is normal — you're human. Start with journaling within_15_min to find some clarity.
+10105,focused,2,0.3138,1,deep_work,now,Focus mode activated. Best time for deep_work is now — don't waste it.
+10106,neutral,3,0.7377,0,light_planning,later_today,Neutral is a good place to plan from. Light Planning later_today is a solid next step.
+10107,focused,2,0.363,1,deep_work,now,Focus mode activated. Best time for deep_work is now — don't waste it.
+10108,neutral,2,0.4968,0,rest,now,Things feel quiet right now. Use this window for rest now before the day picks up.
+10109,neutral,4,0.7711,0,light_planning,later_today,Neutral is a good place to plan from. Light Planning later_today is a solid next step.
+10110,calm,3,0.358,1,light_planning,tonight,You're in a good headspace. Great time to channel that into light_planning tonight.
+10111,calm,1,0.3689,1,light_planning,later_today,You're in a good headspace. Great time to channel that into light_planning later_today.
+10112,mixed,2,0.4355,0,journaling,within_15_min,"When things feel conflicted, small steps help. Try journaling within_15_min to ground yourself."
+10113,focused,3,0.4297,0,deep_work,now,You're sharp and ready. Lock in with deep_work now — this is your window.
+10114,calm,3,0.406,0,light_planning,later_today,You're in a good headspace. Great time to channel that into light_planning later_today.
+10115,calm,4,0.7583,0,light_planning,later_today,You're in a good headspace. Great time to channel that into light_planning later_today.
+10116,overwhelmed,3,0.6848,0,grounding,within_15_min,Feeling overwhelmed is valid. Let's slow things down with grounding within_15_min. You don't have to solve everything today.
+10117,calm,2,0.4917,0,light_planning,later_today,Feeling calm is a gift — use it well. Light Planning later_today sounds like a great move.
+10118,focused,3,0.4892,0,deep_work,now,Focus mode activated. Best time for deep_work is now — don't waste it.
+10119,mixed,4,0.5276,0,journaling,within_15_min,Feeling mixed is normal — you're human. Start with journaling within_15_min to find some clarity.
+10120,restless,4,0.5685,0,journaling,now,Can't seem to slow down? Try journaling now — it'll help you reset.
